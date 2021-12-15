@@ -1,0 +1,23 @@
+{
+  "name": "Chief Executive Officer",
+  "symbol": "",
+  "image": "3.png",
+  "collection": {
+    "name": "Boss Cogs",
+    "family": "Cogs"
+ },
+  "properties": {
+    "files": [
+      {
+        "uri": "3.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "CPL5wD3fS5ji5VpYEuS4FNW5cDMrw3cKikrSq5GeXbGd",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Chief Justice",
+  "symbol": "",
+  "image": "2.png",
+  "collection": {
+    "name": "Boss Cogs",
+    "family": "Cogs"
+ },
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "CPL5wD3fS5ji5VpYEuS4FNW5cDMrw3cKikrSq5GeXbGd",
+        "share": 100
+      }
+    ]
+  }
+}
